@@ -8,7 +8,7 @@ from skill_extractor import extract_skills
 from translator import  change_text
 def main():
     while True:
-        print("\n== openai multi Tool app ===========")
+        print("\n== Groq multi Tool app ===========")
         print("1.summarize text")
         print("2. chatBot ")
         print("3.comment python code")
